@@ -12,4 +12,4 @@ g++ main/HackAssembler.cpp src/Parser.cpp src/Instruction.cpp src/SymbolTable.cp
 
 To assemble a `.asm` file, simply execute `./HackAssembler file_name.asm`. 
 
-A `file_name.hack` will be created (or overwrited), which the HACK computer can read and execute.
+A `file_name.hack` will be created (or overwritten), which the HACK computer can read and execute.
